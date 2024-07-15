@@ -7,7 +7,7 @@ To submit your answers, you must first create a branch of this repository, then 
 
 1. Describe the approach to TDD on your delivery. In general, how strict are people writing tests before code? (This is not a judgement, just an observation of what you are noticing). What makes it difficult to start with tests? What might make it easier?
 
-The team typically writes tests after the code is completed. This appears to be due to the significant amount of time required to create the necessary mocks for testing.
+- The team typically writes tests after the code is completed. This appears to be due to the significant amount of time required to create the necessary mocks for testing.
 
 2.What testing frameworks are in use? Is the same framework used for everything, or do you have a framework for testing code, and one for testing a website or service?
 
