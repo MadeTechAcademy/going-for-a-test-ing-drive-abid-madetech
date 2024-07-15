@@ -9,7 +9,7 @@ To submit your answers, you must first create a branch of this repository, then 
 
 - The team typically writes tests after the code is completed. This appears to be due to the significant amount of time required to create the necessary mocks for testing.
 
-2.What testing frameworks are in use? Is the same framework used for everything, or do you have a framework for testing code, and one for testing a website or service?
+2. What testing frameworks are in use? Is the same framework used for everything, or do you have a framework for testing code, and one for testing a website or service?
 
 3. Looking at the language(s) used, list at least 5 other testing frameworks. What do they have in common, and what's their unique proposition?
 
