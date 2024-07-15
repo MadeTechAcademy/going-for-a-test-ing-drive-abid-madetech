@@ -11,11 +11,11 @@ To submit your answers, you must first create a branch of this repository, then 
 
 2.What testing frameworks are in use? Is the same framework used for everything, or do you have a framework for testing code, and one for testing a website or service?
 
-4. Looking at the language(s) used, list at least 5 other testing frameworks. What do they have in common, and what's their unique proposition?
+3. Looking at the language(s) used, list at least 5 other testing frameworks. What do they have in common, and what's their unique proposition?
 
-5. Using a coverage tool, what is the test coverage on the project (If there's more than one project, choose one). What might that result suggest? In what area would you discuss adding more tests?
+4. Using a coverage tool, what is the test coverage on the project (If there's more than one project, choose one). What might that result suggest? In what area would you discuss adding more tests?
 
-6. Looking at the tests written, how confident would you say they:
+5. Looking at the tests written, how confident would you say they:
     - describe what is happening
     - correctly document what the code should be doing
     - drive development of the code (because of this test this feature *and only this feature* was made)
