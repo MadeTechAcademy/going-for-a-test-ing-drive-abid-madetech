@@ -28,6 +28,8 @@ To submit your answers, you must first create a branch of this repository, then 
 
 4. Using a coverage tool, what is the test coverage on the project (If there's more than one project, choose one). What might that result suggest? In what area would you discuss adding more tests?
 
+- Sonar Cloud is used by the team. The coverage for the frontend 
+
 5. Looking at the tests written, how confident would you say they:
     - describe what is happening
     - correctly document what the code should be doing
