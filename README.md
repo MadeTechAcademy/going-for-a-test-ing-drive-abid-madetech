@@ -28,7 +28,9 @@ To submit your answers, you must first create a branch of this repository, then 
 
 4. Using a coverage tool, what is the test coverage on the project (If there's more than one project, choose one). What might that result suggest? In what area would you discuss adding more tests?
 
-- Sonar Cloud is used by the team. The coverage for the frontend 
+- The team standard for test covearge is: 80%
+- For the python backend test coverage is: 95%
+- For the react front end, test coverage is: 85%
 
 5. Looking at the tests written, how confident would you say they:
     - describe what is happening
