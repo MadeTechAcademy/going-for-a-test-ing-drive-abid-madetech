@@ -23,8 +23,8 @@ To submit your answers, you must first create a branch of this repository, then 
 | Chai | Jest | JavaScript Support, Asynchronous Testing, Integration with CI/CD, Community and Documentation, Assertions | It offers a variety of assertion styles (should, expect, assert) to match the developer's preference. It supports a wide range of plugins that extend its functionality, allowing for more expressive tests.|
 | Enzyme | Jest | JavaScript Support, Asynchronous Testing, Integration with CI/CD, Community and Documentation, Assertions | Enzyme is specifically designed for testing react components. So it has utilities to simulate user interactions, traverse component trees and assert component states. It allows shadow redering which is the ability to render components without their children. This makes unit tests easier and faster. |
 | unittest | PyTest | | It comes with Python's standard library, making it readily available without any additional installations. It encourages a more object-oriented approach to testing, with test cases defined as classes. |
-| nose2 | PyTest | | Allows fine-grained control over test execution and reporting. |
-| Enzyme | PyTest | | |
+| nose2 | PyTest | Both have a rich plugin ecosystem although pytest's might be broader. Both use python assert statements.| Allows fine-grained control over test execution and reporting. |
+| doctest | PyTest | Used for testing python code | doctest is specialized for ensuring that code examples in documentation are correct and functional |
 
 4. Using a coverage tool, what is the test coverage on the project (If there's more than one project, choose one). What might that result suggest? In what area would you discuss adding more tests?
 
