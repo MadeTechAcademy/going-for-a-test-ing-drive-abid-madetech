@@ -36,6 +36,9 @@ To submit your answers, you must first create a branch of this repository, then 
     - describe what is happening
     - correctly document what the code should be doing
     - drive development of the code (because of this test this feature *and only this feature* was made)
-
-
+| Criteria                      | Confidence Level                              |
+|------------------------------|-----------------------------------------|
+| **describe what is happening**      | 70% |
+| **correctly document what the code should be doing**           | 75% |
+| **drive development of the code (because of this test this feature *and only this feature* was made)**                 | 30% |
 
